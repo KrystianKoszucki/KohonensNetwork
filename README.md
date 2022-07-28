@@ -9,5 +9,5 @@ Project is a self written Kohonen's network class. Script learns from implemente
 
 ## Used Technologies
 
-Programming language: Python
+Programming language: Python \n
 Libraries: math, pandas, numpy
